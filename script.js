@@ -5,3 +5,4 @@
 // Added comments for clarity 📘
 // Updated UI styling 🎨
 // Optimized performance 🔧
+// Adjusted config values 🔧
