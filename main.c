@@ -12,3 +12,4 @@
 // Added comments for clarity 📘
 // Enhanced responsiveness 📱
 // Refactored core logic 🚀
+// Updated UI styling 🎨
