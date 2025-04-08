@@ -11,3 +11,4 @@
 // Minor tweak to layout 📐
 // Added comments for clarity 📘
 // Enhanced responsiveness 📱
+// Refactored core logic 🚀
