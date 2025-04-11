@@ -8,3 +8,4 @@
 // Refactored core logic 🚀
 // Updated UI styling 🎨
 // Optimized performance 🔧
+// Added comments for clarity 📘
