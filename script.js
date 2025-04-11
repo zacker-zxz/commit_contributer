@@ -7,3 +7,4 @@
 // Optimized performance 🔧
 // Adjusted config values 🔧
 // Optimized performance 🔧
+// Added comments for clarity 📘
