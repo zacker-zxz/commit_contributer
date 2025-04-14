@@ -8,3 +8,4 @@
 # Code cleanup and reorg ✨
 # Improved error handling ❗
 # Updated UI styling 🎨
+# Added comments for clarity 📘
