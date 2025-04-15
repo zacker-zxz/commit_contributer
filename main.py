@@ -9,3 +9,4 @@
 # Improved error handling ❗
 # Updated UI styling 🎨
 # Added comments for clarity 📘
+# Code cleanup and reorg ✨
