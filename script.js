@@ -16,3 +16,4 @@
 // Refactored core logic 🚀
 // Code cleanup and reorg ✨
 // Adjusted config values 🔧
+// Enhanced responsiveness 📱
