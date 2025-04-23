@@ -16,3 +16,4 @@
 // Improved error handling ❗
 // Updated UI styling 🎨
 // Updated UI styling 🎨
+// Adjusted config values 🔧
