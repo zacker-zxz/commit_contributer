@@ -13,3 +13,4 @@
 # Improved error handling ❗
 # Added comments for clarity 📘
 # Added comments for clarity 📘
+# Updated UI styling 🎨
