@@ -14,3 +14,4 @@
 # Added comments for clarity 📘
 # Added comments for clarity 📘
 # Updated UI styling 🎨
+# Enhanced responsiveness 📱
