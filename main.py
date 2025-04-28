@@ -17,3 +17,4 @@
 # Enhanced responsiveness 📱
 # Improved error handling ❗
 # Code cleanup and reorg ✨
+# Added comments for clarity 📘
