@@ -19,3 +19,4 @@
 # Code cleanup and reorg ✨
 # Added comments for clarity 📘
 # Refactored core logic 🚀
+# Enhanced responsiveness 📱
