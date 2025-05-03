@@ -24,3 +24,4 @@
 // Fixed bug in module ⚙️
 // Updated UI styling 🎨
 // Minor tweak to layout 📐
+// Enhanced responsiveness 📱
