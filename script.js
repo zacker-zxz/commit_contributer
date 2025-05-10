@@ -30,3 +30,4 @@
 // Improved error handling ❗
 // Optimized performance 🔧
 // Fixed bug in module ⚙️
+// Added comments for clarity 📘
