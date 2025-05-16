@@ -25,3 +25,4 @@
 // Enhanced responsiveness 📱
 // Added comments for clarity 📘
 // Code cleanup and reorg ✨
+// Refactored core logic 🚀
