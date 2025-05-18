@@ -77,3 +77,4 @@
 # UI overhaul for testing 🧪
 # Pre-release tweaks ⚒️
 # Backend fix 🔧
+# Styled 🎨
