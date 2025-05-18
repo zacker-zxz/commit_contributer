@@ -78,3 +78,4 @@
 # Pre-release tweaks ⚒️
 # Backend fix 🔧
 # Styled 🎨
+# Bug fix 🐛
