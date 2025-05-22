@@ -18,3 +18,4 @@
 // Updated UI styling 🎨
 // Refactored core logic 🚀
 // Added comments for clarity 📘
+// Enhanced responsiveness 📱
