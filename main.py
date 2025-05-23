@@ -31,3 +31,4 @@
 # Minor tweak to layout 📐
 # Improved error handling ❗
 # Minor tweak to layout 📐
+# Added comments for clarity 📘
