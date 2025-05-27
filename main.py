@@ -32,3 +32,4 @@
 # Improved error handling ❗
 # Minor tweak to layout 📐
 # Added comments for clarity 📘
+# Code cleanup and reorg ✨
