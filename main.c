@@ -30,3 +30,4 @@
 // Code cleanup and reorg ✨
 // Refactored core logic 🚀
 // Minor tweak to layout 📐
+// Enhanced responsiveness 📱
