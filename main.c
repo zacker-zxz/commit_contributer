@@ -32,3 +32,4 @@
 // Minor tweak to layout 📐
 // Enhanced responsiveness 📱
 // Minor tweak to layout 📐
+// Refactored core logic 🚀
