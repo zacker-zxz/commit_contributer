@@ -85,3 +85,4 @@
 # Testing in progress 🧪
 # Styled 🎨
 # Bug fix 🐛
+# Polished code 💎
