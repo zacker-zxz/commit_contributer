@@ -87,3 +87,4 @@
 # Bug fix 🐛
 # Polished code 💎
 # Backend fix 🔧
+# Refactored 🔁
