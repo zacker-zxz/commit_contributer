@@ -105,3 +105,4 @@
 // Bug fix 🐛
 // Optimized ⚙️
 // Massive update 💥
+// Refactored 🔁
