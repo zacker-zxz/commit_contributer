@@ -37,3 +37,4 @@
 // Enhanced responsiveness 📱
 // Enhanced responsiveness 📱
 // Enhanced responsiveness 📱
+// Added comments for clarity 📘
