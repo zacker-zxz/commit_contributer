@@ -106,3 +106,4 @@
 # Testing in progress 🧪
 # Polished code 💎
 # Massive update 💥
+# Styled 🎨
