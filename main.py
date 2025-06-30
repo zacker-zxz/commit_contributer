@@ -117,3 +117,4 @@
 # Cleanup 🧹
 # Polished code 💎
 # Testing in progress 🧪
+# Styled 🎨
