@@ -125,3 +125,4 @@
 # Bug fix 🐛
 # Testing in progress 🧪
 # Massive update 💥
+# Styled 🎨
