@@ -127,3 +127,4 @@
 # Massive update 💥
 # Styled 🎨
 # Bug fix 🐛
+# Cleanup 🧹
