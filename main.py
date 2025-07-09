@@ -147,3 +147,4 @@
 # Cleanup 🧹
 # Polished code 💎
 # Massive update 💥
+# Styled 🎨
